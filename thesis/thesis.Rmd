@@ -1,13 +1,16 @@
 ---
-title: "Zaineb Hamoodi - Doctoral Thesis"
-author: "Your Name"
-output: word_document  # Or pdf_document if you prefer
+output:
+  pdf_document: default
 #bibliography: references.bib
 ---
 
 
-# Introduction
-```{r}
-knitr::knit_child("1_introduction.Rmd")
-```
 
+
+\newpage
+\vspace*{\fill}
+\begin{center}
+\textbf{\LARGE MY CENTERED TITLE}
+\end{center}
+\vspace*{\fill}
+\newpage
