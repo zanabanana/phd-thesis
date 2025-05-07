@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis_Main.aux
+A level-1 auxiliary file: chapters_before_preface/1_lay_abstract.aux
+A level-1 auxiliary file: chapters_before_preface/2_abstract.aux
+A level-1 auxiliary file: chapters_before_preface/3_dedication.aux
+A level-1 auxiliary file: chapters_before_preface/4_acknowledgements.aux
+A level-1 auxiliary file: chapters_before_preface/6_declaration_of_academic_achievement.aux
+A level-1 auxiliary file: chapters_after_preface/1_introduction.aux
+A level-1 auxiliary file: chapters_after_preface/2_sample_chapter.aux
+A level-1 auxiliary file: chapters_after_preface/6_conclusion.aux
+A level-1 auxiliary file: chapters_after_preface_appendix/appendix_A.aux
+A level-1 auxiliary file: chapters_after_preface_appendix/appendix_B.aux
+The style file: abbrvnat.bst
+Database file #1: references/references_first.bib
+Database file #2: references/references_another.bib
+You've used 2 entries,
+            2773 wiz_defined-function locations,
+            620 strings with 5415 characters,
+and the built_in function-call counts, 912 in all, are:
+= -- 82
+> -- 40
+< -- 1
++ -- 14
+- -- 12
+* -- 77
+:= -- 144
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 10
+chr.to.int$ -- 2
+cite$ -- 4
+duplicate$ -- 41
+empty$ -- 80
+format.name$ -- 14
+if$ -- 183
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 8
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 48
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 0
+while$ -- 10
+width$ -- 0
+write$ -- 33
