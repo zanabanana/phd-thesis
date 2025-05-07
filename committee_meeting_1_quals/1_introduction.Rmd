@@ -1,0 +1,16 @@
+---
+output:
+  pdf_document: 
+    number_sections: true
+documentclass: report
+---
+
+
+# Introduction
+
+## I believe that Aang can save the world
+
+Every thesis needs an introductory chapter
+
+
+\cite{popescu2014gamygdala}

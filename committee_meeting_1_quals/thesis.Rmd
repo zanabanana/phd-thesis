@@ -1,0 +1,16 @@
+---
+output:
+  pdf_document: default
+#bibliography: references.bib
+---
+
+
+
+
+\newpage
+\vspace*{\fill}
+\begin{center}
+\textbf{\LARGE MY CENTERED TITLE}
+\end{center}
+\vspace*{\fill}
+\newpage
